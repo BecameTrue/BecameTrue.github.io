@@ -26,7 +26,7 @@ const Description = ({ value, description }) => {
   return (
     <span className="inline-description" data-tip={description}>
       {value}
-      <ReactTooltip place="right" />
+      <ReactTooltip place="right" className="inline-tooltip" />
     </span>
   );
 };
