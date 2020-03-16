@@ -1,25 +1,30 @@
 .inline-text {
   color: rgba(0, 0, 0, 0.85);
+  word-wrap: break-word;
 }
 .inline-link {
   color: #6c5ce7;
   font-weight: 700;
   text-decoration: none;
+  word-wrap: break-word;
 }
 .inline-link:hover {
   text-decoration: underline;
 }
 .inline-bold {
+  word-wrap: break-word;
   color: rgba(0, 0, 0, 0.85);
   font-weight: 700;
 }
 .inline-code {
+  word-wrap: break-word;
   color: #6c5ce7;
   padding: 2px;
   background-color: #f8f9fa;
   font-family: "Roboto Mono", "Noto Sans KR", monospace;
 }
 .inline-description {
+  word-wrap: break-word;
   background-color: #c3d7f860;
 }
 .inline-description:hover {
