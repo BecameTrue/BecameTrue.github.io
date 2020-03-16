@@ -1,5 +1,5 @@
 title: "사이트 구현 과정 - 1편",
-summary: "기본적으로 Github Page를 이용해 호스팅 되었으며, React를 이용해 개발하였습니다. 이 글에서는 Github Page 호스팅을 위해 해두었던 설정들에 관해서 애기합니다. CRA를 통한 프로젝트 생성, gh-pages 설치와 브랜치 설정에 관해서 이야기합니다.",
+summary: "기본적으로 Github Page를 이용해 호스팅 되었으며, React를 이용해 개발하였습니다. 이 글에서는 Github Page 호스팅을 위해 해두었던 설정들, CRA를 통한 프로젝트 생성, gh-pages 설치와 브랜치 설정에 관해서 이야기합니다.",
 date: "2020-03-16 14:45",
 category: "About",
 series: "About",
