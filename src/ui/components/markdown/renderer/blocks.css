@@ -1,6 +1,6 @@
 .markdown-heading-wrapper {
   width: calc(100% - 32px);
-  padding: 0 16px;
+  padding: 32px 16px 0;
   margin: 0 0 16px;
 }
 .markdown-heading-text {
@@ -37,8 +37,8 @@
   margin-bottom: 16px;
 }
 .markdown-code-block-wrapper {
-  width: 100%;
-  margin: 0 0 16px 0;
+  width: calc(100% - 32px);
+  margin: 0 16px 16px;
 }
 .markdown-code-block-wrapper pre {
   background-color: #f8f9fa !important;

@@ -28,7 +28,7 @@ const heading = {
 const code = {
   type: "code",
   labels: ["language", "value"],
-  pattern: /```(.*)([\s\S]*?)\n```/
+  pattern: /`{3,}(.*)([\s\S]*?)\n`{3,}/
 };
 const paragraph = {
   type: "paragraph",
