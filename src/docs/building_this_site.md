@@ -7,7 +7,7 @@ thumbnail: "https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg
 
 ---
 
-이전 포스트에서 말했듯이 이 사이트는 **Github Page**를 이용해서 호스팅 되었습니다. 단순히 포스팅 하는 용도이기 때문에 굳이 다른 호스팅 업체를 사용할 필요가 없었기 때문에 Github Page를 선택했습니다. Github Page에 대해서 먼저 기록 해보겠습니다.
+이전 포스트에서 말했듯이 이 사이트는 **Github Page**를 이용해서 호스팅 되었습니다. 단순히 포스팅 하는 용도이기 때문에 굳이 다른 호스팅 업체를 사용할 필요가 없어서 Github Page를 선택했습니다. Github Page에 대해서 먼저 기록 해보겠습니다.
 
 ## Github Page
 
