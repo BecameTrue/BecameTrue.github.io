@@ -1,0 +1,42 @@
+{
+  "name": "personal-page",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "react-syntax-highlighter": "^12.2.1",
+    "react-tooltip": "^4.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "meta": "node src/meta.js",
+    "predeploy": "npm run meta && npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "https://chash.in",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

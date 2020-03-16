@@ -1,0 +1,20 @@
+.toc-wrapper {
+  position: fixed;
+  top: 88px;
+  display: flex;
+  flex-direction: column;
+  width: 224px;
+  max-width: 224px;
+  margin-left: 16px;
+  padding: 0 8px;
+  border-left: 1px solid #aaaaaa;
+}
+.toc-item {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.65);
+}
+.toc-item:hover {
+  color: #6c5ce7;
+}

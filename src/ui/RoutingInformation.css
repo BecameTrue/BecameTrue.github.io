@@ -1,0 +1,16 @@
+.outer {
+  display: flex;
+  justify-content: center;
+}
+.inner {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1024px;
+}
+.under-header {
+  margin-top: 56px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
