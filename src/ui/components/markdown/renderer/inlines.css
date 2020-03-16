@@ -6,6 +6,9 @@
   font-weight: 700;
   text-decoration: none;
 }
+.inline-link:hover {
+  text-decoration: underline;
+}
 .inline-bold {
   color: rgba(0, 0, 0, 0.85);
   font-weight: 700;
@@ -14,9 +17,11 @@
   color: #6c5ce7;
   padding: 2px;
   background-color: #f8f9fa;
-  font-size: 14px;
   font-family: "Roboto Mono", "Noto Sans KR", monospace;
 }
 .inline-description {
-  background-color: #c3d7f8a6;
+  background-color: #c3d7f860;
+}
+.inline-description:hover {
+  background-color: #c3d7f8c9;
 }

@@ -34,6 +34,7 @@ try {
   files.forEach(file => {
     // show that currently processing on file..
     process.stdout.write("processing ... " + file + "\r");
+    // console.log("processing ... " + file);
 
     var data = fs.readFileSync(docsDirectory + file, "utf8");
     var metaDividerPosition = data.indexOf("---");
