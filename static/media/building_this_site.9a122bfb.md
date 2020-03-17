@@ -1,5 +1,5 @@
 title: "사이트 구현 과정 - 1편",
-summary: "기본적으로 Github Page를 이용해 호스팅 되었으며, React를 이용해 개발하였다. 이 글에서는 Github Page 호스팅을 위해 해두었던 설정들, CRA를 통한 프로젝트 생성, gh-pages 설치와 브랜치 설정에 관해서 이야기한다.",
+summary: "기본적으로 Github Page를 이용해 호스팅 되었으며, React를 이용해 개발하였다. 이 글에서는 Github Page 호스팅을 위해 해두었던 설정들, CRA를 통한 프로젝트 생성, gh-pages 설치와 브랜치 설정에 관해서...",
 date: "2020-03-16 14:45",
 category: "About",
 series: "About",
@@ -59,7 +59,7 @@ npm install gh-pages --save-dev
   "start": "react-scripts start",
   "build": "react-scripts build",
 + "predeploy": "npm run build",
-+ "deploy": "gh-pages -b master -d build", 
++ "deploy": "gh-pages -b master -d build",
   "eject": "react-scripts eject"
 }
 
