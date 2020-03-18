@@ -1,8 +1,8 @@
 title: "RESTful 하게 API를 디자인 한다는 것",
 summary: "개발 상식에 관한 질문 중 'RESTful 하게 API를 디자인 한다는 것은 무엇인가?' 라는 질문에 대한 답을 개인적으로 생각해보았다. REST는 Representational State Transfer의 약자로, 해석해보면 '표현 상태 전송' 정도가 적절할 것 같다. API는 Application Programm...",
 date: "2020-03-17 18:38",
-category: "Technical Interview",
-series: "Development common sense"
+category: "Development Common Sense",
+series: "Development Common Sense"
 
 ---
 
@@ -68,6 +68,11 @@ RESTful API는 통일된 인터페이스를 가지고, 상태 정보를 따로 �
 ## 참고
 
 [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+
 [REST API ?](https://medium.com/@dydrlaks/rest-api-3e424716bab)
+
 [Network - REST란? REST API란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
+
 [REST API와 RESTful API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API)
+
+[RESTful API](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Development_common_sense)
