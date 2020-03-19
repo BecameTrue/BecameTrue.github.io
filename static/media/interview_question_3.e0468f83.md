@@ -41,3 +41,11 @@ DevOps는 어디까지나 문화와 개발 환경이기 때문에, 많은 형태
 `지속적인 전달` : 프로덕션에 릴리스하기 위한 코드 변경이 **자동으로 빌드, 테스트 및 준비되는 소프트웨어 개발 방식**을 통해 즉시 배포할 수 있는 표준화 된 결과물을 가짐
 
 `지속적인 모니터링` : 안정성을 높이기 위해 배포 후 소프트웨어의 성능 및 가용성을 모니터링
+
+## 참고
+
+[데브옵스 - 위키피디아](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4)
+
+[DevOps란 무엇입니까?](https://aws.amazon.com/ko/devops/what-is-devops/)
+
+[What Is DevOps?](https://newrelic.com/devops/what-is-devops)
