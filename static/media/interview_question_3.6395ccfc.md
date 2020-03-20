@@ -2,7 +2,8 @@ title: "DevOps가 대체 뭘까",
 summary: "조금만 프로그래밍 관련해서 검색을 하다보면 DevOps란 단어를 종종 볼 수 있는데, 대충 감으로만 이해하고 크게 신경쓰지 않다가 그래도 확실히 개념을 잡는 편이 나을 것 같아서 정리해본다. DevOps는 Dev(개발)과 Ops(운영)의 합성어로 ...",
 date: "2020-03-18 15:26",
 category: "Development Common Sense",
-series: "Development Common Sense"
+series: "Development Common Sense",
+thumbnail: "https://www.mimul.com/static/f6954b1b807311621c3277e1169f542d/1e05d/devops.png"
 
 ---
 
