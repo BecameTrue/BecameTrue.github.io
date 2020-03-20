@@ -17,6 +17,8 @@ DevOps는 [Dev//개발 - Development]와 [Ops//운영 - Operations]의 합성어
 
 ## DevOps
 
+![devops](https://www.mimul.com/static/f6954b1b807311621c3277e1169f542d/1e05d/devops.png)
+
 DevOps는 **Dev(개발 - Development)**과 **Ops(운영 - Operations)**의 합성어로, [다양한 분야//개발, IT 운영, 품질 엔지니어링, 보안 등]의 전문가들이 서로 **협업**하여 소프트웨어 제품을 **빠른 속도**로 개발 및 배포를 할 수 있도록 지원하는 **개발 환경이나 문화**를 의미한다.
 
 ### 목적
