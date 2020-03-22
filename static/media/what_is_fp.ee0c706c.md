@@ -57,10 +57,14 @@ thumbnail: "https://miro.medium.com/max/728/1*oLjxuHmzmcfa5f27ksY_Jw.jpeg"
 
 ---
 
-#### 참고 자료
+## 참고 자료
 
-[OOP: Everything you need to know about Object Oriented Programming](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
+[함수형 프로그래밍](https://ko.wikipedia.org/wiki/%ED%95%A8%EC%88%98%ED%98%95_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
-[객체 지향 프로그래밍(OOP : Object Oriented Programming) 개념 및 활용 정리](https://velog.io/@cyranocoding/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DOOP-Object-Oriented-Programming-%EA%B0%9C%EB%85%90-%EB%B0%8F-%ED%99%9C%EC%9A%A9-%EC%A0%95%EB%A6%AC-igjyooyc6c#%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Doop%EC%9D%B4%EB%9E%80)
+[왜 함수형 프로그래밍이 좋을까?](http://ruaa.me/why-functional-matters/)
 
-[JaeYeopHan/Interview_Question_for_Beginner/Development_common_sense](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Development_common_sense)
+[함수형 프로그래밍이란?](https://medium.com/@lazysoul/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-d881230f2a5e)
+
+[함수형 프로그래밍과 현실](https://medium.com/happyprogrammer-in-jeju/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%98%84%EC%8B%A4-6dced234e0fa)
+
+[번역 - 함수형 프로그래밍이란 무엇인가?](https://sungjk.github.io/2017/07/17/fp.html)
