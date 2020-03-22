@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b64b2ae85527147e4dc281221dfd006",
+    "revision": "261ed28f4ccc55a467a3da7062269241",
     "url": "/index.html"
   },
   {
-    "revision": "78adf6629ccf75b6b88b",
+    "revision": "7c19dcaa592ddbf22daf",
     "url": "/static/css/main.99dc3d36.chunk.css"
   },
   {
-    "revision": "d07a8de0c1bd18e90426",
-    "url": "/static/js/2.e9fced31.chunk.js"
+    "revision": "30437fd504b3c2c1c4b5",
+    "url": "/static/js/2.6596bfa8.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/static/js/2.e9fced31.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6596bfa8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78adf6629ccf75b6b88b",
-    "url": "/static/js/main.1237fa84.chunk.js"
+    "revision": "7c19dcaa592ddbf22daf",
+    "url": "/static/js/main.95eab1de.chunk.js"
   },
   {
     "revision": "64650183fe3f88312e7a",
@@ -32,12 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/building_this_site.9a122bfb.md"
   },
   {
-    "revision": "4e6621201b3241ca58ae5f73c28f28d9",
-    "url": "/static/media/interview_question_1.4e662120.md"
-  },
-  {
     "revision": "6c77d0c8b6a128ea09a8e77ba16694a7",
-    "url": "/static/media/interview_question_2.6c77d0c8.md"
+    "url": "/static/media/restful_api_design.6c77d0c8.md"
   },
   {
     "revision": "24152520e56ec8262fdd6b98096fed34",
@@ -46,5 +42,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83001addb5330797ff3ff35040293c43",
     "url": "/static/media/what_is_devops.83001add.md"
+  },
+  {
+    "revision": "cb84cca5d998084cded851a482664887",
+    "url": "/static/media/what_is_fp.cb84cca5.md"
+  },
+  {
+    "revision": "4e6621201b3241ca58ae5f73c28f28d9",
+    "url": "/static/media/what_is_oop.4e662120.md"
   }
 ]);
