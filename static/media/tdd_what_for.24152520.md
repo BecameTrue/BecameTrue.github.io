@@ -2,7 +2,8 @@ title: "TDD는 무엇일까",
 summary: "TDD는 Test Driven Development의 약자로, 테스트 주도 개발이라는 뜻이다. 다양한 소프트웨어 개발 프로세스 중의 하나로 실패 -> 성공 -> 리팩토링의 과정을 반복하는 것이다. 실패하는 테스트를 작성하고, 통과하도록 구현하며, 리팩 ...",
 date: "2020-03-21 22:14",
 category: "Development Common Sense",
-series: "Development Common Sense"
+series: "Development Common Sense",
+thumbnail: "https://sehun-kim.github.io/sehun/assets/images/TDD_Graphic.jpg"
 
 ---
 
