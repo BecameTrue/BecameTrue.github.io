@@ -12,6 +12,8 @@ series: "Development Common Sense"
 
 ---
 
+![tdd](https://sehun-kim.github.io/sehun/assets/images/TDD_Graphic.jpg)
+
 TDD는 Test Driven Development의 약자이다. 즉 테스트 주도 개발이란 것인데, 테스트 주도 개발이라니 무슨 말일까? 일단 [소프트웨어 개발 프로세스//소프트웨어 제품을 개발하기 위해 필요한 과정 또는 구조] 중의 하나이다. 이 소프트웨어 개발 프로세스에는 폭포수, V, 프로토타이핑, 나선형, 애자일(Agile) 등 다양한 모델이 있다. 여기서는 TDD에 관해서 정리해보도록 한다.
 
 ## TDD
