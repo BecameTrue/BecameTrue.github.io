@@ -2,7 +2,7 @@ title: "함수형 프로그래밍이란 무엇인가",
 summary: "이전 포스트에서 객체 지향 프로그래밍에 대해서 다루어보았다. 이 포스트에서는 OOP를 포함한 다양한 프로그래밍 패러다임 중 함수형 프로그래밍에 대해서 알아보려 한다. 함수형 프로그래밍은 간략하게 말해서 ...",
 date: "2020-03-22 16:38",
 category: "Development Common Sense",
-series: "Development Common Sense",
+series: "Programming Paradigm",
 thumbnail: "https://miro.medium.com/max/728/1*oLjxuHmzmcfa5f27ksY_Jw.jpeg"
 
 ---
