@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.99dc3d36.chunk.css",
-    "main.js": "/static/js/main.cd9fafea.chunk.js",
-    "main.js.map": "/static/js/main.cd9fafea.chunk.js.map",
+    "main.js": "/static/js/main.feac75ba.chunk.js",
+    "main.js.map": "/static/js/main.feac75ba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7af9e462.js",
     "runtime-main.js.map": "/static/js/runtime-main.7af9e462.js.map",
-    "static/js/2.6596bfa8.chunk.js": "/static/js/2.6596bfa8.chunk.js",
-    "static/js/2.6596bfa8.chunk.js.map": "/static/js/2.6596bfa8.chunk.js.map",
+    "static/js/2.3ad058da.chunk.js": "/static/js/2.3ad058da.chunk.js",
+    "static/js/2.3ad058da.chunk.js.map": "/static/js/2.3ad058da.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1551b8f7c660e5b5edc66a20361a7584.js": "/precache-manifest.1551b8f7c660e5b5edc66a20361a7584.js",
+    "precache-manifest.a91ab76d755258b0636e7936af6784ec.js": "/precache-manifest.a91ab76d755258b0636e7936af6784ec.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.99dc3d36.chunk.css.map": "/static/css/main.99dc3d36.chunk.css.map",
-    "static/js/2.6596bfa8.chunk.js.LICENSE.txt": "/static/js/2.6596bfa8.chunk.js.LICENSE.txt",
+    "static/js/2.3ad058da.chunk.js.LICENSE.txt": "/static/js/2.3ad058da.chunk.js.LICENSE.txt",
     "static/media/about.md": "/static/media/about.8eac8c49.md",
     "static/media/building_this_site.md": "/static/media/building_this_site.9a122bfb.md",
     "static/media/restful_api_design.md": "/static/media/restful_api_design.6c77d0c8.md",
     "static/media/tdd_what_for.md": "/static/media/tdd_what_for.24152520.md",
     "static/media/what_is_devops.md": "/static/media/what_is_devops.83001add.md",
-    "static/media/what_is_fp.md": "/static/media/what_is_fp.ee0c706c.md",
-    "static/media/what_is_oop.md": "/static/media/what_is_oop.4e662120.md"
+    "static/media/what_is_fp.md": "/static/media/what_is_fp.f5ed50b0.md",
+    "static/media/what_is_mvc.md": "/static/media/what_is_mvc.14df21c9.md",
+    "static/media/what_is_oop.md": "/static/media/what_is_oop.b7fbb9ea.md"
   },
   "entrypoints": [
     "static/js/runtime-main.7af9e462.js",
-    "static/js/2.6596bfa8.chunk.js",
+    "static/js/2.3ad058da.chunk.js",
     "static/css/main.99dc3d36.chunk.css",
-    "static/js/main.cd9fafea.chunk.js"
+    "static/js/main.feac75ba.chunk.js"
   ]
 }

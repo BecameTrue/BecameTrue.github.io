@@ -2,7 +2,7 @@ title: "객체 지향 프로그래밍이란 무엇인가",
 summary: "개발 상식에 관한 질문 중 '객체 지향 프로그래밍이란 무엇인가' 라는 질문에 대한 답을 개인적으로 생각해보았다. 객체 지향 프로그래밍은 프로그램을, 상호작용 하는 상태와 행위를 가지는 객체들의 집합으로 보는 프로그래밍 패러다임...",
 date: "2020-03-16 18:13",
 category: "Development Common Sense",
-series: "Development Common Sense",
+series: "Programming Paradigm",
 thumbnail: "https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/thumbnail.jpg"
 
 ---
