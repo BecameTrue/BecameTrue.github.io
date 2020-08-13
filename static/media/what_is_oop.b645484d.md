@@ -3,7 +3,7 @@ summary: "개발 상식에 관한 질문 중 '객체 지향 프로그래밍이�
 date: "2020-03-16 18:13",
 category: "Development Common Sense",
 series: "Programming Paradigm",
-thumbnail: "https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/thumbnail.jpg"
+thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdYhnxCghYwzmLNJWtyk9Zk7tCQz9PIn6OUA&usqp=CAU"
 
 ---
 
