@@ -15,7 +15,7 @@ thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdYhnxCghYwz
 
 ---
 
-![oop](https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/thumbnail.jpg)
+![oop](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdYhnxCghYwzmLNJWtyk9Zk7tCQz9PIn6OUA&usqp=CAU)
 
 **객체 지향 프로그래밍(Object Oriented Programming)**은 말 그대로 **객체**의 개념에 기반한 [프로그래밍 패러다임//프로그래밍 관점으로 볼 수 있다. 함수형 프로그래밍의 경우에는 프로그램을 상태값을 '가지지 않는 함수들의 연속'으로 보듯이]이다. 즉 OOP에서는 프로그램을 상호작용하는 객체들의 집합으로 본다.
 
